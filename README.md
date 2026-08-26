@@ -134,9 +134,9 @@ const myStack = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=HibaAjeeb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HibaAjeeb&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
 </div>
 
@@ -211,12 +211,6 @@ Good software should be:
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="90" alt="Debugging"/>
 
-    
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Relieved%20Face.png" width="90" alt="Working"/>
-
-    
-
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="90" alt="It works somehow"/>
 
 <br>
@@ -275,11 +269,18 @@ I'm continuously improving my skills in:
 <a href="https://github.com/HibaAjeeb">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+<a href="https://www.linkedin.com/in/hiba-ajeep-380266431/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+</a>
 <!-- Add your social links here -->
 
 </div>
 
+🤝 Let's Connect
+
+I'm always interested in connecting with developers, software engineers, and people working on interesting ideas and projects.
+
+Feel free to reach out to me on LinkedIn or GitHub.
 ---
 
 ## 🐍 Contribution Snake
