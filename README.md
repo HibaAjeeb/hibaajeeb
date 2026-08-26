@@ -130,22 +130,6 @@ const myStack = {
 
 ---
 
-## 📂 Featured Projects
-
-> 🚧 This section can be customized with your real projects.
-
-### 📱 Flutter Projects
-
-| Project          | Description                           | Technologies              |
-| ---------------- | ------------------------------------- | ------------------------- |
-| 🚀 Project One   | Mobile application built with Flutter | Flutter, Dart, Firebase   |
-| 💡 Project Two   | Modern mobile application             | Flutter, Dart, PostgreSQL |
-| 🎨 Project Three | UI/UX focused application             | Flutter, Dart, Figma      |
-
-> Replace the projects above with your actual GitHub repositories.
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
