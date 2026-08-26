@@ -272,8 +272,8 @@ I'm continuously improving my skills in:
 
 <div align="left">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://github.com/HibaAjeeb"/>
+<a href="https://github.com/HibaAjeeb">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <!-- Add your social links here -->
